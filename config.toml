@@ -1,5 +1,5 @@
-title = "Notre-Dame de Paris MP"
-baseURL = "/hugo-website"
+title = "Tennis Spot"
+baseURL = "/tennis-spot"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 themesDir = "themes"
